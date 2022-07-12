@@ -6,6 +6,6 @@ def es_primo(num):
     print("Es primo")
     return True
 
-v = int(input('ingrese el numero a verificar '))
+v = int(input('ingrese el año a verificar '))
 
 es_primo(v)
